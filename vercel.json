@@ -1,0 +1,6 @@
+{
+  "crons": [
+    { "path": "/api/signup-reminders", "schedule": "0 23 * * *" },
+    { "path": "/api/signup-reminders", "schedule": "0 0 * * *" }
+  ]
+}
